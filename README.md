@@ -1,2 +1,2 @@
 # RSI_Trading
-<h1> A Work Against Technical Analysis </h1>
+<h1> Personal Files for RSI TRADING </h1>
