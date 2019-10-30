@@ -7,4 +7,8 @@ handler.py computes the RSI and Twenty Days Moving Averages for a given security
 
 model.py computes brute force returns for an RSI strategy with buying and selling at arbitrary values and when the security trades at values above and below two standard deviations from a 20 days moving average. 
 
-TO BE CONTINUED 
+<h7>TO DO:</h7>
+<ul>
+  <li>Perfectionate the way to compute returns.</li>
+  <li>Verify if this strategy performed better than a passive Buy and Hold Strategy.</li>
+</ul>
